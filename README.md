@@ -1,7 +1,7 @@
 Narwhal-
 ========
 ![Narwhal Frame](https://pbs.twimg.com/media/BnSBBRhIMAAjtsg.jpg)
-
+(@sasquatch_labs)
 Sasquatch Labs Narwhal designed by Clayton Harp (aka Gearwolf) as an exercise for Sasquatch Labs
 gearwolf (https://www.youtube.com/channel/UC3hxpZu7FxzWRr7U07uL-lA)
 

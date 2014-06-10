@@ -1,4 +1,4 @@
-Narwhal-
+Narwhal
 ========
 ![Narwhal Frame](https://pbs.twimg.com/media/BnSBBRhIMAAjtsg.jpg)
 (@sasquatch_labs)
